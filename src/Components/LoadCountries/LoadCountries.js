@@ -24,10 +24,10 @@ const LoadCountries = (props) => {
                  ></ShowCountry>)
            }
 
-{
+{/* {
             
             countries.map(country=>console.log(country))
-           }
+           } */}
 
             
         </div>
